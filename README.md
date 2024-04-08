@@ -1,6 +1,7 @@
 # Unmasking-Data-Bias-for-Data-Aware-Modeling
 
-This repository provides the official data analysis codes for the paper "Whose Health Matters in Healthcare Models? Unmasking Data Bias for Data-Aware Modeling".
+This repository provides the official data analysis codes of the 'Datasheet for MIMIC IV v2.0 CRD' of the paper "Re-evaluating Fairness in Real-World Healthcare
+Machine Learning: Data-Centric Approach through MIMIC IV Analysis"
 
 The paper analyzes prevalent HML prediction models using the MIMIC dataset across all demographics. Access to the MIMIC IV v2.0 data  is restricted to PhysioNet credentialed users only and the entire process is listed in Whose Health Matters in Healthcare Models? Unmasking Data Bias for Data-Aware Modeling. 
 
